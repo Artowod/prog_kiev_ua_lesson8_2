@@ -1,13 +1,13 @@
 package ua.prog.java.lesson8_2;
 
 public class SpaceShip {
-	
+
 	private String name;
 	private double weight;
 	private double strength;
 
 	public SpaceShip() {
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public SpaceShip(String name, double weight, double strength) {

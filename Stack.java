@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Stack {
-	Object currentObject;
-	int maxStackSize = 10;
-	int currentStackSize;
-	List<Object> stack = new ArrayList<Object>();
-	BlackList instanceOfBlackList;
+	private Object currentObject;
+	private int maxStackSize = 10;
+	private int currentStackSize;
+	private List<Object> stack = new ArrayList<Object>();
+	private BlackList instanceOfBlackList;
 
 	public Stack() {
 

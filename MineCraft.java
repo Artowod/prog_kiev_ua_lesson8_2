@@ -4,7 +4,7 @@ public class MineCraft {
 	private String version;
 
 	public MineCraft() {
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public MineCraft(String version) {
